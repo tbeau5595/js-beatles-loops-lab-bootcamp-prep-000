@@ -18,5 +18,5 @@ function johnLennonFacts() {
   i++;
   }
   
-  array.push
+ return.array
 }
