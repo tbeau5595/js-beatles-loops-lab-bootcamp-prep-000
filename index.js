@@ -19,6 +19,6 @@ function ilovethebeatles(number) {
   var array = [];
   
   do {
-    
+    array.push()
   }
 }
